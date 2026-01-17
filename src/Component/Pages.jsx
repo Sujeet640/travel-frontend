@@ -1,5 +1,5 @@
 import React from "react";
-import fImage from "../Image/jaipur.jpg";
+import fImage from "../Image/Jaipur.jpg";
 import indiaTour from "../Image/IndiaTour.webp";
 import khajuraho from "../Image/khajuraho.webp";
 
